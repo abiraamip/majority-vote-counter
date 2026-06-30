@@ -6,14 +6,14 @@ P – President
 V – Vice President
 S – Secretary
 T – Treasurer
-A – Member 1
-B – Member 2
+X – Member 1
+Y – Member 2
 Each member casts a binary vote:
 1 → YES
 0 → NO
-The system performs two tasks:
-Counts the total number of YES votes (0–6).
-Determines whether the proposal passes.
+The system:
+1) Counts the total number of YES votes (0–6).
+2) Determines whether the proposal passes.
 
 ✅ Decision Rule
 The proposal is approved if:
