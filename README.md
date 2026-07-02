@@ -1,6 +1,6 @@
-🗳️ Majority Vote Counter and Decision System
+# 🗳️ Majority Vote Counter and Decision System
 
-📌 Project Overview
+## 📌 Project Overview
 This project models a committee consisting of six members:
 P – President
 V – Vice President
@@ -15,7 +15,7 @@ The system:
 1) Counts the total number of YES votes (0–6).
 2) Determines whether the proposal passes.
 
-✅ Decision Rule
+## ✅ Decision Rule
 The proposal is approved if:
 The number of YES votes is 4 or more, OR
 There is a 3–3 tie, and the President votes YES.
